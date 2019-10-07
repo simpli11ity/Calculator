@@ -3,7 +3,7 @@ from tkinter import *
 class Calculator:
     def __init__(self, master):
         # Lazy global variable
-cd 
+
         self.master = master
         master.title("Calculator")
         self.equationComplete=False
